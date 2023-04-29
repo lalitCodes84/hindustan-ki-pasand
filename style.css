@@ -1,0 +1,17 @@
+#h1{text-align: center; text-transform: capitalize;}
+h2{color: black;}
+#div1{background-color: black;}
+a:hover{
+    background-color: blue;
+}
+#div2,a{ 
+    word-spacing: 50px; 
+    background-color:black;
+    margin: 5px;
+    padding: 10px;
+    color: white;
+}
+.span{
+    border: 1px;
+    padding: 1px;
+}
